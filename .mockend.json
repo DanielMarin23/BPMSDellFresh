@@ -1,0 +1,10 @@
+{
+  "Order": {
+    "Customer": "string",
+    "OrderId": "int",
+    "Quantity": "int",
+    "Type": "string",
+    "Color": "string",
+    "Fragrance": "string"
+  }
+}
